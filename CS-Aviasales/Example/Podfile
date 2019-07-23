@@ -1,0 +1,4 @@
+use_frameworks!
+target 'CS-Aviasales_Tests' do
+  pod 'CS-Aviasales', :path => '../'
+end
